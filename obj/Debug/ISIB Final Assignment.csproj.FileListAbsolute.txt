@@ -1,0 +1,10 @@
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\bin\Debug\ISIB Final Assignment.exe.config
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\bin\Debug\ISIB Final Assignment.exe
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\bin\Debug\ISIB Final Assignment.pdb
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB Final Assignment.csprojAssemblyReference.cache
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB_Final_Assignment.Properties.Resources.resources
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB Final Assignment.csproj.GenerateResource.cache
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB Final Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB Final Assignment.exe
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB Final Assignment.pdb
+C:\Users\Seyuran29\Desktop\Campus\ISIB1003\Labs\ISIB Final Assignment\obj\Debug\ISIB_Final_Assignment.Form1.resources
